@@ -1,7 +1,7 @@
 {
   "name": "pdf.js",
   "version": "4.1.392",
-  "type",: "module",
+  "type": "module",
   "devDependencies": {
     "@babel/core": "^7.24.4",
     "@babel/preset-env": "^7.24.4",
